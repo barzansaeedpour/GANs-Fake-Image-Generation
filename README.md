@@ -18,11 +18,12 @@ You can work with this repository in two ways:
 1. Clone the repository and run the notebook
 
 2. Open the note book in Colab:
+https://colab.research.google.com/github/barzansaeedpour/GAN-Fake-Image-Generation/blob/main/GAN-Fake-Image-Generation.ipynb
 
 
 ## Project Structure
 
-- `*****.ipynb`: Script for training the GAN on the MNIST dataset.
+- `GAN-Fake-Image-Generation.ipynb`: Script for training the GAN on the MNIST dataset.
 
 
 ## License
