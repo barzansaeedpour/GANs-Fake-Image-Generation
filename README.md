@@ -2,7 +2,14 @@
 
 ## Overview
 
-This project demonstrates the use of Generative Adversarial Networks (GANs) to generate fake images for the MNIST dataset. GANs consist of a generator and a discriminator, which are trained simultaneously through adversarial training. The generator tries to create realistic images, while the discriminator tries to distinguish between real and fake images.
+This project demonstrates the use of Generative Adversarial Networks (GANs) to generate fake images for the MNIST dataset. GANs consist of a generator and a discriminator, which are trained simultaneously through adversarial training. The generator tries to create realistic images, while the discriminator tries to distinguish between real and fake images. You can use the same idea for othe datasets.
+
+| Real | Fake |
+|----------|----------|
+| Real images from MNIST dataset | Fake Images Genereted with the trained GAN |
+|<img src="files/real.png" alt="Image 1" >|<img src="files/fake.png" alt="Image 4">|
+
+
 
 ## Usage
 
