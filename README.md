@@ -1,4 +1,4 @@
-# Fake Image Generation with Generative Adversarial Networks (GAN)
+# Fake Image Generation with Generative Adversarial Networks (GANs)
 
 ## Overview
 
